@@ -15,4 +15,4 @@
 
 module.exports = (robot) ->
   robot.hear /(yankees|baseball|world series)/i, (msg) ->  
-    message.send "http://s3.amazonaws.com/citybuzz/2014/04/massachusetts-stereotypes/stereotypes-mass-3.gif"
+    msg.send "http://s3.amazonaws.com/citybuzz/2014/04/massachusetts-stereotypes/stereotypes-mass-3.gif"
