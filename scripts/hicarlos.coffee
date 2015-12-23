@@ -1,6 +1,6 @@
-# Dinosaur Sex
+# Hi Carlos
 #
-# dinosex - Display a motivation picture of dinosaur sex
+# hicarlos - RIP Carlos
 #
 
 hicarlos = [
